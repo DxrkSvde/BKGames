@@ -632,7 +632,7 @@
                         r
                     );
                 },
-                H = { src: "./_next/static/media/imgSliderArrowLeft.b72fdc16.svg", height: 94, width: 94 },
+                H = { src: "https://raw.githubusercontent.com/DxrkSvde/BKGames/main/_next/static/media/imgSliderArrowLeft.b72fdc16.svg", height: 94, width: 94 },
                 L = { src: "./_next/static/media/imgSliderArrowRight.e631e21d.svg", height: 94, width: 94 };
             var W = { src: "./_next/static/media/arrow.69d54574.svg", height: 18, width: 27 },
                 V = r(6037);
