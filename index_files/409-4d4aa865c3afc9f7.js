@@ -1559,7 +1559,7 @@
                             }),
                             (0, c.jsx)("div", {
                                 className: "lg:basis-[30%] hidden lg:block relative top-4 xl:-top-6",
-                                children: (0, c.jsx)(u.default, { src: Ge, alt: "BigGames_Figure", layout: "responsive", objectFit: "contain", objectPosition: "50% 100%", width: "50%", height: "50%" }),
+                                children: (0, c.jsx)(u.default, { src: Ge, alt: "", layout: "responsive", objectFit: "contain", objectPosition: "50% 100%", width: "50%", height: "50%" }),
                             }),
                         ],
                     }),
