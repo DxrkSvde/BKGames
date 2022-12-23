@@ -528,7 +528,7 @@
                                 }),
                             }),
                             (0, c.jsx)(w.default, {
-                                href: "https://www.youtube.com/channel/UC2Gs2oMfUJlO-mKTmHM9-CQ",
+                                href: "https://www.youtube.com/@BKProsYT/featured",
                                 passHref: !0,
                                 children: (0, c.jsx)("a", {
                                     target: "_blank",
@@ -1304,7 +1304,7 @@
                 Ne = [
                     { txt: "Twitter", link: "https://twitter.com/BKOfficialTeam" },
                     { txt: "Discord", link: "https://discord.com/invite/bkgames" },
-                    { txt: "YouTube", link: "https://www.youtube.com/channel/UC2Gs2oMfUJlO-mKTmHM9-CQ" },
+                    { txt: "YouTube", link: "https://www.youtube.com/@BKProsYT/featured" },
                     { txt: "Roblox", link: "https://www.roblox.com/games/11213263186/BK-Games-Hub" },
                 ];
             function ke(e) {
