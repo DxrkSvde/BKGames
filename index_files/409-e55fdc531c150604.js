@@ -466,9 +466,9 @@
                     })({}, g, { style: m, children: [(0, c.jsx)("h2", { className: n, children: t }), u, (0, c.jsx)("p", { className: l, children: r })] })
                 );
             }
-            var E = { src: "/_next/static/media/twitter.c1a489e1.svg", height: 26, width: 32 },
-                T = { src: "/_next/static/media/yt.cd1802ae.svg", height: 24, width: 35 },
-                D = { src: "/_next/static/media/discord.763c98ce.svg", height: 24, width: 32 };
+            var E = { src: "../_next/static/media/twitter.c1a489e1.svg", height: 26, width: 32 },
+                T = { src: "../_next/static/media/yt.cd1802ae.svg", height: 24, width: 35 },
+                D = { src: "../_next/static/media/discord.763c98ce.svg", height: 24, width: 32 };
             function M(e, t, r) {
                 return t in e ? Object.defineProperty(e, t, { value: r, enumerable: !0, configurable: !0, writable: !0 }) : (e[t] = r), e;
             }
@@ -541,7 +541,7 @@
                     })
                 );
             }
-            var R = { src: "/_next/static/media/plus.9d60f3d3.svg", height: 18, width: 17 };
+            var R = { src: "../_next/static/media/plus.9d60f3d3.svg", height: 18, width: 17 };
             function _(e, t) {
                 (null == t || t > e.length) && (t = e.length);
                 for (var r = 0, n = new Array(t); r < t; r++) n[r] = e[r];
@@ -632,9 +632,9 @@
                         r
                     );
                 },
-                H = { src: "/_next/static/media/imgSliderArrowLeft.b72fdc16.svg", height: 94, width: 94 },
-                L = { src: "/_next/static/media/imgSliderArrowRight.e631e21d.svg", height: 94, width: 94 };
-            var W = { src: "/_next/static/media/arrow.69d54574.svg", height: 18, width: 27 },
+                H = { src: "../_next/static/media/imgSliderArrowLeft.b72fdc16.svg", height: 94, width: 94 },
+                L = { src: "../_next/static/media/imgSliderArrowRight.e631e21d.svg", height: 94, width: 94 };
+            var W = { src: "../_next/static/media/arrow.69d54574.svg", height: 18, width: 27 },
                 V = r(6037);
             function F(e, t, r) {
                 return t in e ? Object.defineProperty(e, t, { value: r, enumerable: !0, configurable: !0, writable: !0 }) : (e[t] = r), e;
@@ -751,15 +751,15 @@
                     className: o,
                     children: [
                         // Latest dev blog image
-                        (0, c.jsx)("div", { className: "blur-md relative ", children: (0, c.jsx)(u.default, { src: "/_next/static/media/recentblogthumb.svg", alt: "blog_monster", width: 454, height: 454 * i }) }),
+                        (0, c.jsx)("div", { className: "blur-md relative ", children: (0, c.jsx)(u.default, { src: "../_next/static/media/recentblogthumb.svg", alt: "blog_monster", width: 454, height: 454 * i }) }),
                         (0, c.jsx)("div", {
                             className: "absolute top-0 w-full h-full flex justify-center items-center",
-                            children: (0, c.jsx)("div", { className: s, children: (0, c.jsx)(u.default, { src: "/_next/static/media/recentblogthumb.svg", alt: "blog_monster1", width: 227, height: 227 }) }),
+                            children: (0, c.jsx)("div", { className: s, children: (0, c.jsx)(u.default, { src: "../_next/static/media/recentblogthumb.svg", alt: "blog_monster1", width: 227, height: 227 }) }),
                         }),
                     ],
                 });
             }
-            var Q = { src: "/_next/static/media/bag.a179b4b7.svg", height: 18, width: 18 };
+            var Q = { src: "../_next/static/media/bag.a179b4b7.svg", height: 18, width: 18 };
             function K(e) {
                 var t = e.frontImages,
                     r = (0, m.oR)().state,
@@ -796,8 +796,8 @@
                                                 className: "blur2imagesWrapper",
                                                 children: [
                                                     // blurred_image
-                                                    (0, c.jsx)(g, { brownM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "/_next/static/media/bigGames.66f7ea84.svg" }),
-                                                    (0, c.jsx)(g, { greenM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "/_next/static/media/bigGames.66f7ea84.svg" }),
+                                                    (0, c.jsx)(g, { brownM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "../_next/static/media/bigGames.66f7ea84.svg" }),
+                                                    (0, c.jsx)(g, { greenM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "../_next/static/media/bigGames.66f7ea84.svg" }),
                                                 ],
                                             }),
                                             (0, c.jsxs)(rt, {
@@ -806,8 +806,8 @@
                                                 end: "translateY(0px)",
                                                 className: "hidden md:flex blur2imagesWrapper",
                                                 children: [
-                                                    (0, c.jsx)(g, { brownM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "/_next/static/media/bigGames.66f7ea84.svg" }),
-                                                    (0, c.jsx)(g, { greenM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "/_next/static/media/bigGames.66f7ea84.svg" }),
+                                                    (0, c.jsx)(g, { brownM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "../_next/static/media/bigGames.66f7ea84.svg" }),
+                                                    (0, c.jsx)(g, { greenM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "../_next/static/media/bigGames.66f7ea84.svg" }),
                                                 ],
                                             }),
                                         ],
@@ -821,8 +821,8 @@
                                                 end: "translateY(0px)",
                                                 className: "blur2imagesWrapper",
                                                 children: [
-                                                    (0, c.jsx)(g, { greenM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "/_next/static/media/bigGames.66f7ea84.svg" }),
-                                                    (0, c.jsx)(g, { brownM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "/_next/static/media/bigGames.66f7ea84.svg" }),
+                                                    (0, c.jsx)(g, { greenM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "../_next/static/media/bigGames.66f7ea84.svg" }),
+                                                    (0, c.jsx)(g, { brownM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "../_next/static/media/bigGames.66f7ea84.svg" }),
                                                 ],
                                             }),
                                             (0, c.jsxs)(rt, {
@@ -831,8 +831,8 @@
                                                 end: "translateY(0px)",
                                                 className: "blur2imagesWrapper",
                                                 children: [
-                                                    (0, c.jsx)(g, { greenM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "/_next/static/media/bigGames.66f7ea84.svg" }),
-                                                    (0, c.jsx)(g, { brownM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "/_next/static/media/bigGames.66f7ea84.svg" }),
+                                                    (0, c.jsx)(g, { greenM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "../_next/static/media/bigGames.66f7ea84.svg" }),
+                                                    (0, c.jsx)(g, { brownM: !0, wrapperStyle: "blurImageItemWrapper", blurStyle: "blurImageItemBlur", img: "../_next/static/media/bigGames.66f7ea84.svg" }),
                                                 ],
                                             }),
                                         ],
@@ -869,7 +869,7 @@
             }
             var Z = r(7283),
                 J = r(3359),
-                ee = { src: "/_next/static/media/arrowGrey.d576127a.svg", height: 16, width: 24 },
+                ee = { src: "../_next/static/media/arrowGrey.d576127a.svg", height: 16, width: 24 },
                 te = r(131);
             function re(e, t) {
                 (null == t || t > e.length) && (t = e.length);
@@ -1054,8 +1054,8 @@
                 });
             }
             var ce = r(1163),
-                ue = { src: "/_next/static/media/bigGames.66f7ea84.svg", height: 50, width: 68 },
-                fe = { src: "/_next/static/media/lupe.f31b6432.svg", height: 16, width: 16 };
+                ue = { src: "../_next/static/media/bigGames.66f7ea84.svg", height: 50, width: 68 },
+                fe = { src: "../_next/static/media/lupe.f31b6432.svg", height: 16, width: 16 };
             var de = (0, p.Pi)(function (e) {
                     var t = e.navbar,
                         r = e.imageW,
@@ -1142,7 +1142,7 @@
                         }),
                     });
                 }),
-                ge = { src: "/_next/static/media/closingX.d4f7fc93.svg", height: 14, width: 14 };
+                ge = { src: "../_next/static/media/closingX.d4f7fc93.svg", height: 14, width: 14 };
             var me = (0, p.Pi)(function () {
                     var e = function (e) {
                             var n = e.currentTarget;
@@ -1159,7 +1159,7 @@
                     return (0,
                     c.jsxs)("div", { className: n, children: [(0, c.jsx)(de, { imageH: 14, imageW: 18, sidebar: !0, leftIcon: ge }), (0, c.jsxs)("div", { className: "pageBg/90 px-4 flex flex-col gap-5 mt-6", children: [(0, c.jsx)("div", { "data-id": "home", onClick: e, className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: "Home" }), (0, c.jsx)("div", { "data-id": "ourgames", onClick: e, className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: "Our Games" }), (0, c.jsx)(w.default, { href: "https://shop.bkgames.xyz/", passHref: !0, children: (0, c.jsx)("div", { className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: (0, c.jsx)("a", { target: "_blank", rel: "noopener noreferrer", children: "Sick Merch" }) }) }), (0, c.jsx)(w.default, { href: "/post", passHref: !0, children: (0, c.jsx)("div", { onClick: e, className: "px-4 rounded-full m-auto shadow-sm text-center text-xl text-pageBlack font-bold bg-white w-full max-w-[380px] py-5", children: (0, c.jsx)("a", { children: "Dev Blogs" }) }) })] }), (0, c.jsx)(z, { className: "w-full h-full px-4 gap-4 flex justify-center mt-auto mb-24" })] });
                 }),
-                pe = { src: "/_next/static/media/hamburger.48056bf1.svg", height: 12, width: 18 };
+                pe = { src: "../_next/static/media/hamburger.48056bf1.svg", height: 12, width: 18 };
             function xe(e) {
                 var t = e.blog,
                     r = void 0 !== t && t;
@@ -1528,7 +1528,7 @@
                     c.jsx)("div", { className: O, children: (0, c.jsxs)("div", { className: I, children: [(0, c.jsxs)("div", { className: "sm:max-w-lg xl:max-w-xl m-auto", children: [(0, c.jsx)("p", { className: S, children: t }), (0, c.jsx)($, { frontpage: g, blogMain: m, blogItem: p, blogImgSrc: x, ratioImg: r })] }), (0, c.jsxs)("div", { className: "sm:max-w-lg m-auto", ref: d ? j : null, children: [(0, c.jsx)("p", { className: N, children: t }), (0, c.jsx)(s, { className: "dateItem", children: y }), (0, c.jsx)(A, { state: !d || w, directionStart: "translateX(30px)", directionEnd: "translateX(0px)", className: "leading-12 relative", title: "Update logs - Coming soon", description: "", titleStyle: B, descriptionStyle: E }), (0, c.jsxs)("div", { className: P, children: [(0, c.jsx)("div", { className: T }), (0, c.jsx)(k, { className: "roundButtonClass bg-pageBlue shadow-glowBlue flex flex-row-reverse", src: W, href: f, linkTxt: i, withLink: b })] })] })] }) });
                 }),
                 Ge = {
-                    src: "/_next/static/media/petsimcat.svg",
+                    src: "../_next/static/media/petsimcat.svg",
                     height: 2048,
                     width: 2048,
                     blurDataURL:
