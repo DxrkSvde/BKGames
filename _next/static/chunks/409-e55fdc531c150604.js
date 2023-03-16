@@ -581,7 +581,7 @@
                             })
                         })
                     }), (0, c.jsx)(w.default, {
-                        href: "https://www.youtube.com/@BKProsYT",
+                        href: "youtubeplaceholder",
                         passHref: !0,
                         children: (0, c.jsx)("a", {
                             target: "_blank",
@@ -1593,7 +1593,7 @@
                     link: "https://discord.biggames.io"
                 }, {
                     txt: "YouTube",
-                    link: "https://www.youtube.com/@BKProsYT"
+                    link: "youtubeplaceholder"
                 }, {
                     txt: "Roblox",
                     link: "https://www.roblox.com/games/12005112538/BK-Games-Hub"
